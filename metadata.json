@@ -1,0 +1,6 @@
+{
+  "name": "Apex Shift: Tokyo Oversteer",
+  "description": "Premium landing page for the next-gen drift game Apex Shift: Tokyo Oversteer. Features high-velocity branding, an interactive tuning garage, vehicle stats viewer, and secure local pre-registration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
